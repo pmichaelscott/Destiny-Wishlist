@@ -23,7 +23,7 @@ dimwishlist:item=2477980485&perks=1840239774,1087426260,3400784728,1771339417
 
 
 
-// Episodes/Seasons
+//// Episodes/Seasons ////////
 // Episode 2 - Revenant
 
 // Bitter/Sweet
@@ -55,7 +55,7 @@ dimwishlist:item=3818198556&perks=839105230,106909392,3828510309,1134488199
 dimwishlist:item=3830941962&perks=3250034553,3177308360,1583705720,3966416502#notes:this is a note just testing
 
 
-// Dungeons
+//// Dungeons ////////
 // Vespers Host
 // dimwishlist:item=#&perks=
 
